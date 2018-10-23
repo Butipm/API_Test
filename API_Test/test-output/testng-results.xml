@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6752" started-at="2018-10-23T05:19:44Z" finished-at="2018-10-23T05:19:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6752" started-at="2018-10-23T05:19:44Z" finished-at="2018-10-23T05:19:51Z">
+      <class name="API.API_Test">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:API.API_Test@12d3247]" name="beforesuite" is-config="true" duration-ms="448" started-at="2018-10-23T05:19:44Z" finished-at="2018-10-23T05:19:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:API.API_Test@12d3247]" name="beforemethod" is-config="true" duration-ms="8" started-at="2018-10-23T05:19:44Z" finished-at="2018-10-23T05:19:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="allBreeds()[pri:0, instance:API.API_Test@12d3247]" name="allBreeds" duration-ms="5533" started-at="2018-10-23T05:19:44Z" finished-at="2018-10-23T05:19:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allBreeds -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:API.API_Test@12d3247]" name="aftermethod" is-config="true" duration-ms="4" started-at="2018-10-23T05:19:50Z" finished-at="2018-10-23T05:19:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:API.API_Test@12d3247]" name="beforemethod" is-config="true" duration-ms="5" started-at="2018-10-23T05:19:50Z" finished-at="2018-10-23T05:19:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="randomImageLink()[pri:0, instance:API.API_Test@12d3247]" name="randomImageLink" duration-ms="699" started-at="2018-10-23T05:19:50Z" finished-at="2018-10-23T05:19:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- randomImageLink -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:API.API_Test@12d3247]" name="aftermethod" is-config="true" duration-ms="1" started-at="2018-10-23T05:19:50Z" finished-at="2018-10-23T05:19:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:API.API_Test@12d3247]" name="beforemethod" is-config="true" duration-ms="1" started-at="2018-10-23T05:19:50Z" finished-at="2018-10-23T05:19:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="subBreeds()[pri:0, instance:API.API_Test@12d3247]" name="subBreeds" duration-ms="462" started-at="2018-10-23T05:19:50Z" finished-at="2018-10-23T05:19:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subBreeds -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:API.API_Test@12d3247]" name="aftermethod" is-config="true" duration-ms="1" started-at="2018-10-23T05:19:51Z" finished-at="2018-10-23T05:19:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:API.API_Test@12d3247]" name="afterSuite" is-config="true" duration-ms="529" started-at="2018-10-23T05:19:51Z" finished-at="2018-10-23T05:19:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- API.API_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
